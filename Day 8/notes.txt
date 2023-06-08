@@ -1,0 +1,9 @@
+Reproducibility (taking out random out of random)
+
+How neural networks learn: 
+
+start with random numbers -> tensor ops -> update random numbers to try and make better (repeating process) -> repeat until satisfied
+
+To reduce rendomness, we can set a seed.
+A seed flavours the randomness.
+
